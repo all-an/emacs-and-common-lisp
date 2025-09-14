@@ -17,6 +17,7 @@ Inside the context of sbcl
 ```
 
 Add to init.el configuration on .emacs.d folder
+(use the file init.el we provide here)
 ---------------------------
 ```lisp
 (load (expand-file-name "~/quicklisp/slime-helper.el"))
